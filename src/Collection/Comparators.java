@@ -14,7 +14,7 @@ class Mycomparator implements Comparator<Integer> {
     }
 }
 
-class StringLengthComparatot implements Comparator<String>{
+class StringLengthComparator implements Comparator<String>{
 
     @Override
     public int compare(String o1, String o2) {
